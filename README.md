@@ -33,3 +33,19 @@
      <a href="https://github.com/Pofxe/search_engine_core">Search Server</a>
   </li>
 </ul>
+
+<p>Projects that were carried out in my spare time for a change:</p>
+<ul>
+  <li>
+     <img src="https://img.icons8.com/?size=100&id=113085&format=png&color=000000" alt="millioner_wpf" width="32" height="32" />
+     <a href="https://github.com/Pofxe/millioner_wpf">Millioner WPF</a>
+  </li>
+  <li>
+     <img src="https://img.icons8.com/?size=100&id=64061&format=png&color=000000" alt="find_couple_wpf" width="32" height="32" />
+     <a href="https://github.com/Pofxe/find_couple">Find Couple WPF</a>
+  </li>
+  <li>
+     <img src="https://img.icons8.com/?size=100&id=llEEaYYWuq2o&format=png&color=000000" alt="calculate_wpf" width="32" height="32" />
+     <a href="https://github.com/Pofxe/calculate_wpf">Calculate WPF</a>
+  </li>
+</ul>
