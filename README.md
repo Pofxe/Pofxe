@@ -9,7 +9,7 @@
      <a href="https://github.com/Pofxe/ImgConv">ImageConverter</a>
   </li>
   <li>
-     <img src="[https://icons8.ru/icon/42077/spreadsheet alt="spreadsheet" width="32" height="32" />
+     <img src="https://icons8.ru/icon/42077/spreadsheet alt="spreadsheet" width="32" height="32" />
      <a href="https://github.com/Pofxe/spreadsheet_">Spreadsheet</a>
   </li>
 </ul>
