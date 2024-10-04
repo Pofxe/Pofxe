@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FFFF00&text=Vitalii%20Bogodukhov&section=header&reversal=false&textBg=false&fontColor=0&fontSize=38&fontAlignY=50&animation=twinkling&stroke=1&strokeWidth=1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFFF00&text=Vitalii%20Bogodukhov&section=header&reversal=false&textBg=false&fontColor=0&fontSize=38&fontAlignY=50&animation=twinkling&stroke=1&strokeWidth=1"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=My+specialization+-+C%2B%2B+Developer)](https://git.io/typing-svg)
 
@@ -25,7 +25,7 @@
      <a href="https://github.com/Pofxe/custom_vector">Simplified vector</a>
   </li>
   <li>
-     <img src="https://img.icons8.com/?size=100&id=DsEyWh3QzGj0&format=png&color=000000" alt="transport_catalogue" width="32" height="32" />
+     <img src="https://img.icons8.com/?size=100&id=115345&format=png&color=000000" alt="transport_catalogue" width="32" height="32" />
      <a href="https://github.com/Pofxe/transport_catalogue">Transport Catalogue</a>
   </li>
   <li>
@@ -49,3 +49,26 @@
      <a href="https://github.com/Pofxe/calculate_wpf">Calculate WPF</a>
   </li>
 </ul>
+
+<div align="center">  
+  
+<img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Pofxe&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFF00&text_color=FFFFFF&bg_color=0d1117" alt="pofxe github stats" />
+
+<img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pofxe&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+
+  
+<img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pofxe&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFFF00&fire=FF0000&currStreakLabel=FFFFFF" alt="Pofxe github stats" />
+
+  <h3 > Main Skills </h3>
+  <img src="https://skillicons.dev/icons?i=cpp,postgres,sqlite,cmake,dotnet,cs" />
+
+  <h3> Tools </h3>
+  <img src="https://skillicons.dev/icons?i=visualstudio,git,github,docker,linux,windows" />
+ 
+  <h3> </h3>
+  
+<a href="https://t.me/zzuutt"><img src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFFF00&section=footer&reversal=false&textBg=false&fontColor=0&fontSize=38&fontAlignY=50&animation=twinkling&stroke=1&strokeWidth=1"/>
