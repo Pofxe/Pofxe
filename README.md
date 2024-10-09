@@ -8,14 +8,14 @@
      <img src="https://img.icons8.com/?size=100&id=67369&format=png&color=000000" alt="image_converter" width="32" height="32" />
      <a href="https://github.com/Pofxe/ImgConv">ImageConverter</a>
   </li>
-  <li>
-     <img src="https://img.icons8.com/?size=100&id=67358&format=png&color=000000" alt="spreadsheet" width="32" height="32" />
-     <a href="https://github.com/Pofxe/spreadsheet_">Spreadsheet</a>
-  </li>
 </ul>
 
 <p>Projects completed as part of the training:</p>
 <ul>
+  <li>
+     <img src="https://img.icons8.com/?size=100&id=67358&format=png&color=000000" alt="spreadsheet" width="32" height="32" />
+     <a href="https://github.com/Pofxe/spreadsheet_">Spreadsheet</a>
+  </li>
   <li>
      <img src="https://img.icons8.com/?size=100&id=64034&format=png&color=000000" alt="advanced_vector" width="32" height="32" />
      <a href="https://github.com/Pofxe/advance_vector">Advanced Vector</a>
