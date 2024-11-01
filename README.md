@@ -13,6 +13,10 @@
 <p>Projects completed as part of the training:</p>
 <ul>
   <li>
+     <img src="https://img.icons8.com/?size=100&id=53052&format=png&color=000000" alt="seabattle-tcp" width="32" height="32" />
+     <a href="https://github.com/Pofxe/seabattle-tcp">Seabattle TCP</a>
+  </li>
+  <li>
      <img src="https://img.icons8.com/?size=100&id=67358&format=png&color=000000" alt="spreadsheet" width="32" height="32" />
      <a href="https://github.com/Pofxe/spreadsheet_">Spreadsheet</a>
   </li>
