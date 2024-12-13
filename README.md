@@ -10,10 +10,6 @@
 <p>Projects completed as part of the training:</p>
 <ul>
   <li>
-     <img src="https://img.icons8.com/?size=100&id=44749&format=png&color=000000" alt="calculate_hard" width="32" height="32" />
-     <a href="https://github.com/Pofxe/calculate_hard_">CalculateHard</a>
-  </li>
-  <li>
      <img src="https://img.icons8.com/?size=100&id=67369&format=png&color=000000" alt="image_converter" width="32" height="32" />
      <a href="https://github.com/Pofxe/ImgConv">ImageConverter</a>
   </li>
