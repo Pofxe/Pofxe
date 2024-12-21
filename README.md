@@ -10,6 +10,10 @@
 <p>Projects completed as part of the training:</p>
 <ul>
   <li>
+     <img src="https://img.icons8.com/?size=100&id=63908&format=png&color=000000" alt="calculate_hard" width="32" height="32" />
+     <a href="https://github.com/Pofxe/calculate_hard_">CalculateHard</a>
+  </li>
+  <li>
      <img src="https://img.icons8.com/?size=100&id=67369&format=png&color=000000" alt="image_converter" width="32" height="32" />
      <a href="https://github.com/Pofxe/ImgConv">ImageConverter</a>
   </li>
@@ -27,7 +31,7 @@
   </li>
   <li>
      <img src="https://img.icons8.com/?size=100&id=64034&format=png&color=000000" alt="custom_vector" width="32" height="32" />
-     <a href="https://github.com/Pofxe/custom_vector">Simplified vector</a>
+     <a href="https://github.com/Pofxe/custom_vector">Simplified Vector</a>
   </li>
   <li>
      <img src="https://img.icons8.com/?size=100&id=115345&format=png&color=000000" alt="transport_catalogue" width="32" height="32" />
