@@ -63,9 +63,7 @@
   
 <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Pofxe&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFF00&text_color=FFFFFF&bg_color=0d1117" alt="pofxe github stats" />
 
-<img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pofxe&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
-
-![](https://leetcard.jacoblin.cool/pofxe?ext=heatmap)
+<img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pofxe&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=
   
 <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pofxe&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFFF00&fire=FF0000&currStreakLabel=FFFFFF" alt="Pofxe github stats" />
 
