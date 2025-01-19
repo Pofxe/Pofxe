@@ -45,6 +45,10 @@
 
 <p>Projects that were carried out in my spare time for a change:</p>
 <ul>
+   <li>
+     <img src="https://img.icons8.com/?size=100&id=FEeo5W7u1dVn&format=png&color=000000" alt="five_letters_wpf" width="32" height="32" />
+     <a href="https://github.com/Pofxe/five_letters_wpf">Five Letters WPF</a>
+  </li>
   <li>
      <img src="https://img.icons8.com/?size=100&id=113085&format=png&color=000000" alt="millioner_wpf" width="32" height="32" />
      <a href="https://github.com/Pofxe/millioner_wpf">Millioner WPF</a>
