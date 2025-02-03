@@ -65,7 +65,6 @@
 
 <div align="center">  
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Trarutara?theme=dark)
 <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Pofxe&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFF00&text_color=FFFFFF&bg_color=0d1117" alt="pofxe github stats" />
 <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pofxe&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 
