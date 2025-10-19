@@ -9,7 +9,7 @@
 <ul>
   <li>
      <img src="https://img.icons8.com/?size=100&id=63908&format=png&color=000000" alt="calculate_hard" width="32" height="32" />
-     <a href="https://github.com/Pofxe/calculate_hard_">CalculateHard</a>
+     <a href="https://github.com/Pofxe/calculate_hard">CalculateHard</a>
   </li>
   <li>
      <img src="https://img.icons8.com/?size=100&id=53052&format=png&color=000000" alt="seabattle-tcp" width="32" height="32" />
